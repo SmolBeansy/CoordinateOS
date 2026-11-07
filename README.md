@@ -1,2 +1,2 @@
 # CoordinateOS
-This is an Operating System that is going to be made with my own programming language.
+An Operating System that is being made, by a team!
